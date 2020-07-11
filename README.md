@@ -1,2 +1,2 @@
-# self-designed-game-continued2
-The self designed game still continued. Going to make a new game very soon!!
+# p5.play-boilerplate
+Boiler plate for p5.play
